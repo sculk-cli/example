@@ -1,0 +1,40 @@
+{
+    "name": "Sculk Example Modpack",
+    "version": "1.0.0",
+    "minecraft": "1.20.4",
+    "loader": {
+        "type": "fabric",
+        "version": "0.15.10"
+    },
+    "manifests": [
+        {
+            "path": "mods/sodium.sculk.json",
+            "sha256": "2e076b54608eb46b88e14a56b4d97c7dece4bb420b83a4d552af9ef08a14c20b"
+        },
+        {
+            "path": "mods/utility-belt.sculk.json",
+            "sha256": "4bf676b0bece417f7170a39cbcf4ac16f63a265b172236544572ce4e6f78fe7e"
+        },
+        {
+            "path": "mods/trinkets.sculk.json",
+            "sha256": "c8a21569dc29b099bd5da05c653650bce54faa7c27c006a5401f335c2500a008"
+        },
+        {
+            "path": "mods/jamlib.sculk.json",
+            "sha256": "837d63192cd5ade1f5de1a4ad5bc42284c6f1be468b9f7bdfb6743b8dec6f695"
+        },
+        {
+            "path": "mods/fabric-api.sculk.json",
+            "sha256": "e88e28b0116ccc6d430fe8d9cc5fbfac35e3d00e2f510aef5c3389946c8cd316"
+        },
+        {
+            "path": "mods/architectury-api.sculk.json",
+            "sha256": "503f2d0376d1c38860933253f0df0f3db8b8516480fc710f5e1b6e7661cee549"
+        },
+        {
+            "path": "mods/rightclickharvest.sculk.json",
+            "sha256": "b46853e2cdb3cfa0e406675b64412574eb4fe838ef4bd6d6512a665673e8186e"
+        }
+    ],
+    "files": []
+}

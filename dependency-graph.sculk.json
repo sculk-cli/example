@@ -1,0 +1,20 @@
+{
+    "mods/trinkets.sculk.json": [
+        "mods/utility-belt.sculk.json"
+    ],
+    "mods/fabric-api.sculk.json": [
+        "mods/jamlib.sculk.json",
+        "mods/architectury-api.sculk.json",
+        "mods/utility-belt.sculk.json",
+        "mods/rightclickharvest.sculk.json"
+    ],
+    "mods/architectury-api.sculk.json": [
+        "mods/jamlib.sculk.json",
+        "mods/utility-belt.sculk.json",
+        "mods/rightclickharvest.sculk.json"
+    ],
+    "mods/jamlib.sculk.json": [
+        "mods/utility-belt.sculk.json",
+        "mods/rightclickharvest.sculk.json"
+    ]
+}
