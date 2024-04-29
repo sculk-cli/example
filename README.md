@@ -1,7 +1,5 @@
 # Sculk Example Modpack
 
-![Sculk: A program for creating Minecraft modpacks](./banner.png)
-
 <div align="center">
 
 [Read the Docs](https://sculk-cli.github.io) •
