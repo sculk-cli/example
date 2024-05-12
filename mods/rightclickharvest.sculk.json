@@ -3,7 +3,8 @@
     "side": "server_only",
     "hashes": {
         "sha1": "ccd564159511bf11e3ba3cd303ffc42acabb295e",
-        "sha512": "a92c549c177eb2e6a1d5e8804df27e642b17ad6458bc40f05beac10017d899d935c4dbaedb33468b9524e39908ba449f2bf602ba85128300feee597481b4eecc"
+        "sha512": "a92c549c177eb2e6a1d5e8804df27e642b17ad6458bc40f05beac10017d899d935c4dbaedb33468b9524e39908ba449f2bf602ba85128300feee597481b4eecc",
+        "murmur2": 1184710545
     },
     "fileSize": 272129,
     "sources": {

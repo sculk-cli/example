@@ -3,7 +3,8 @@
     "side": "both",
     "hashes": {
         "sha1": "578b95d1c3631e614739fa4ac1ca773836950540",
-        "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362"
+        "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362",
+        "murmur2": 4122701452
     },
     "fileSize": 587429,
     "sources": {

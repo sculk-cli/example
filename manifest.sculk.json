@@ -9,32 +9,33 @@
     "manifests": [
         {
             "path": "mods/sodium.sculk.json",
-            "sha256": "2e076b54608eb46b88e14a56b4d97c7dece4bb420b83a4d552af9ef08a14c20b"
+            "sha256": "26def03c5b82fa838c73c79987aa22a45b7723d8b8853fbaf4875236c2f7de21"
         },
         {
             "path": "mods/utility-belt.sculk.json",
-            "sha256": "4bf676b0bece417f7170a39cbcf4ac16f63a265b172236544572ce4e6f78fe7e"
+            "sha256": "250b723b0ecff5fc328328b84ea31d0207b5d6c7466e3c97d9d4704e4ce5d1db"
         },
         {
             "path": "mods/trinkets.sculk.json",
-            "sha256": "c8a21569dc29b099bd5da05c653650bce54faa7c27c006a5401f335c2500a008"
+            "sha256": "e85f613d3730ed0a0e2c476ebf0479bf14c319daf2a383c64797b1dd22c54ae0"
         },
         {
             "path": "mods/jamlib.sculk.json",
-            "sha256": "837d63192cd5ade1f5de1a4ad5bc42284c6f1be468b9f7bdfb6743b8dec6f695"
+            "sha256": "de689d77b8de71af4d3804169c2e3cd4dbdc20b415043ffa61663981b79f91a5"
         },
         {
             "path": "mods/fabric-api.sculk.json",
-            "sha256": "e88e28b0116ccc6d430fe8d9cc5fbfac35e3d00e2f510aef5c3389946c8cd316"
+            "sha256": "0ddbfd72356bfa3aae92eed5cadec138904ae5a791aeca01ac17e203cec7ee13"
         },
         {
             "path": "mods/architectury-api.sculk.json",
-            "sha256": "503f2d0376d1c38860933253f0df0f3db8b8516480fc710f5e1b6e7661cee549"
+            "sha256": "f22c0fe5594763299368737a953adf544515001db9675ec75d817b652214ded7"
         },
         {
             "path": "mods/rightclickharvest.sculk.json",
-            "sha256": "b46853e2cdb3cfa0e406675b64412574eb4fe838ef4bd6d6512a665673e8186e"
+            "sha256": "b170e52d6701ee0e0e08c2f7d4d3b387591e30213dbc4cb423bf9014ea3be414"
         }
     ],
-    "files": []
+    "files": [],
+    "formatVersion": "1.1"
 }
