@@ -22,4 +22,4 @@ jobs:
     - name: Install Sculk
       run: python3 <(wget https://raw.githubusercontent.com/sculk-cli/sculk/main/install.py -q -O-)
     - name: Check hashes
-      run: ~/.sculk/bin/sculk refresh --check
+      run: ~/.sculk/sculk refresh --check
