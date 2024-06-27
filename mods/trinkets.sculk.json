@@ -8,6 +8,11 @@
     },
     "fileSize": 240884,
     "sources": {
+        "curseforge": {
+            "projectId": 341284,
+            "fileUrl": "https://edge.forgecdn.net/files/5173/502/trinkets-3.8.1.jar",
+            "fileId": 5173502
+        },
         "modrinth": {
             "projectId": "5aaWibi9",
             "fileUrl": "https://cdn.modrinth.com/data/5aaWibi9/versions/7aQD4OG8/trinkets-3.8.1.jar"

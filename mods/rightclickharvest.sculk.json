@@ -8,6 +8,11 @@
     },
     "fileSize": 272129,
     "sources": {
+        "curseforge": {
+            "projectId": 452834,
+            "fileUrl": "https://edge.forgecdn.net/files/5177/677/rightclickharvest-fabric-4.1.4%2b1.20.4.jar",
+            "fileId": 5177677
+        },
         "modrinth": {
             "projectId": "Cnejf5xM",
             "fileUrl": "https://cdn.modrinth.com/data/Cnejf5xM/versions/oA5bVpx4/rightclickharvest-fabric-4.1.4%2B1.20.4.jar"

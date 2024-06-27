@@ -8,6 +8,11 @@
     },
     "fileSize": 2187067,
     "sources": {
+        "curseforge": {
+            "projectId": 306612,
+            "fileUrl": "https://edge.forgecdn.net/files/5253/510/fabric-api-0.97.0%2b1.20.4.jar",
+            "fileId": 5253510
+        },
         "modrinth": {
             "projectId": "P7dR8mSH",
             "fileUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/xklQBMta/fabric-api-0.97.0%2B1.20.4.jar"

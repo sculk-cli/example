@@ -8,6 +8,11 @@
     },
     "fileSize": 290576,
     "sources": {
+        "curseforge": {
+            "projectId": 664053,
+            "fileUrl": "https://edge.forgecdn.net/files/5276/201/utility-belt-fabric-2.0.1%2b1.20.4.jar",
+            "fileId": 5276201
+        },
         "modrinth": {
             "projectId": "9ewe2JHJ",
             "fileUrl": "https://cdn.modrinth.com/data/9ewe2JHJ/versions/OQazGXJy/utility-belt-fabric-2.0.1%2B1.20.4.jar"

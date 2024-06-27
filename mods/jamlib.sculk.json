@@ -8,6 +8,11 @@
     },
     "fileSize": 164470,
     "sources": {
+        "curseforge": {
+            "projectId": 623764,
+            "fileUrl": "https://edge.forgecdn.net/files/5285/653/jamlib-fabric-1.0.9%2b1.20.4.jar",
+            "fileId": 5285653
+        },
         "modrinth": {
             "projectId": "IYY9Siz8",
             "fileUrl": "https://cdn.modrinth.com/data/IYY9Siz8/versions/aIRj8MPw/jamlib-fabric-1.0.9%2B1.20.4.jar"

@@ -8,6 +8,11 @@
     },
     "fileSize": 587429,
     "sources": {
+        "curseforge": {
+            "projectId": 419699,
+            "fileUrl": "https://edge.forgecdn.net/files/5173/988/architectury-11.1.17-fabric.jar",
+            "fileId": 5173988
+        },
         "modrinth": {
             "projectId": "lhGA9TYQ",
             "fileUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar"
